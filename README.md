@@ -1,4 +1,7 @@
 <!--description: A tool for finding rov-invalid received routes. -->
+[![PyPI](https://img.shields.io/pypi/v/invalid-scraper.svg)](https://pypi.python.org/pypi/invalid-scraper)
+[![Build Status](https://travis-ci.com/wolcomm/invalid-scraper.svg?branch=master)](https://travis-ci.com/wolcomm/invalid-scraper)
+[![codecov](https://codecov.io/gh/wolcomm/invalid-scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/wolcomm/invalid-scraper)
 
 # invalid-scraper
 
